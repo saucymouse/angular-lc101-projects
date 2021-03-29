@@ -1,0 +1,13 @@
+.chores {
+    font-family: sans-serif;
+    color: steelblue;
+}
+
+h3 {
+    text-decoration: underline;
+    text-underline-offset: 20%;
+}
+
+li {
+    font-style: italic;
+}

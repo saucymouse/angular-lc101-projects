@@ -3,7 +3,8 @@ h3 {
 }
 
 img {
-
+   max-width: 10%;
+   height: auto;
 }
 
 .photos {
