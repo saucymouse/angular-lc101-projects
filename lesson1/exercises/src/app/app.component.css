@@ -1,0 +1,15 @@
+hr {
+    height: 3px;
+    border-width: 1;
+    color: green;
+    background-color: black;
+}
+
+.links {
+    text-align: center;
+}
+
+.container {
+    background-color: palegoldenrod;
+    display: block;
+}
